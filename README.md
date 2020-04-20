@@ -1,18 +1,13 @@
-# frases_do_dia
-
-Projeto feito em flutter 
-project have been done  in flutter.
+#frases do dia 
 
 
-## Getting Started
+Projeto feito no flutter 
 
-This project is a starting point for a Flutter application.
+Objetivo
 
-A few resources to get you started if this is your first Flutter project:
+Tem pela principal função de nível básico, alterar frases prontas de trechos de músicas famosas
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+de acordo com o projeto etá com frases genêricas de sem sentido.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Assinado : João Pedro Januário de Olivera Santos.
