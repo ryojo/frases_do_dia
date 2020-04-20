@@ -1,6 +1,8 @@
 # frases_do_dia
 
-A new Flutter project.
+Projeto feito em flutter 
+project have been done  in flutter.
+
 
 ## Getting Started
 
